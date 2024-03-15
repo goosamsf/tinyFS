@@ -1,0 +1,9 @@
+
+
+lib
+scripts
+test
+*.txt
+*.o
+*.swp
+tinyFS
